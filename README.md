@@ -110,7 +110,7 @@ Pet Adoption Platform
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
 ### AI / ML
