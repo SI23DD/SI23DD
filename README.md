@@ -3,11 +3,9 @@
 </p> 
 
 <h1 align="center">Hi 👋, I'm Siddhi Jadhav</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Generative AI Enthusiast</h3>
+<h3 align="center">Building AI-powered applications that solve real-world problems.</h3>
 
-<p align="center">
-Building AI-powered applications that solve real-world problems.
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Si23DD&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
