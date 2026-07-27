@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+the+Future+with+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&color=BA55D3&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+the+Future+with+AI" />
 </p> 
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Siddhi Jadhav</h1>
 <h3 align="center">🚀 AI Engineer | Full Stack Developer | Generative AI Enthusiast</h3>
