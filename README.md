@@ -1,27 +1,41 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+the+Future+with+AI"/>
+  <img src="banner.png" width="100%">
 </p>
-
-<h1 align="center">Hi 👋 I'm Siddhi Jadhav</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Generative AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SI23DD&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/SI23DD?style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/SI23DD?style=for-the-badge&color=8A2BE2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Building+Intelligent+Experiences;Always+Learning+Always+Building" />
+</p>
+
+<h1 align="center">Siddhi Jadhav</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Generative AI
+</h3>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SI23DD&style=for-the-badge&color=black&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/SI23DD?style=for-the-badge&color=black"/>
+
+<img src="https://img.shields.io/github/stars/SI23DD?style=for-the-badge&color=black"/>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👋 About Me
 
-- 💼 AI Engineer at **X38 AI Labs Pvt. Ltd.**
-- 🎓 B.E. in Artificial Intelligence
-- 🤖 Building AI-powered products
-- 🌱 Learning Agentic AI, MCP, RAG & Cloud
-- 🚀 Creator of SixArt.ai
+```diff
++ AI Engineer passionate about building intelligent products.
 
----
++ Experienced in Full Stack Development.
+
++ Working with LLMs, Agentic AI, MCP and RAG.
+
++ Love turning ideas into production-ready AI applications.
+
++ Always learning.
 
 ## 🚀 Featured Projects
 
