@@ -154,14 +154,15 @@ Python • OpenCV • Flask
 </div>
 
 ---
+## 🎯 Current Focus
 
-# 📊 GitHub Stats
+• Building AI-powered SaaS products
 
-<div align="center">
+• Developing AI Agents & RAG systems
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SI23DD&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+• Full Stack Development
 
-</div>
+• Exploring Multimodal AI
 
 ---
 
@@ -197,21 +198,6 @@ Python • OpenCV • Flask
 
 </div>
 
----
-
-<div align="center">
-
-## 💡 Current Focus
-
-🧠 Building AI-powered products
-
-⚡ Exploring LLMs, AI Agents & RAG
-
-🚀 Shipping production-ready applications
-
-🎯 Continuously learning and improving
-
-</div>
 
 ---
 
