@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SI23DD&label=Profile%20Views&style=for-the-badge&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=SI23DD&label=Profile%20Views&style=for-the-badge&color=000000" alt="Profile views" />
 </p>
 
 <div align="center">
 
 <img src="banner.png" width="100%" alt="Siddhi Jadhav Banner"/>
 
-<br><br>
+<br>
 
 <h1>Siddhi Jadhav</h1>
 
@@ -18,9 +18,9 @@ Building intelligent products with AI, automation and modern web technologies.
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;Generative+AI+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;Generative+AI+Enthusiast" alt="typing" />
 
-<br><br>
+<br>
 
 </div>
 
@@ -30,9 +30,26 @@ Building intelligent products with AI, automation and modern web technologies.
 
 <div align="center">
 
-| Role | Projects | Stack | Focus |
-|---|---:|:---:|:---:|
-| 🧠 AI Engineer | 8+ AI & Full Stack products | Python • React • Flutter | LLMs • AI Agents • RAG |
+<table>
+  <tr>
+    <td align="center" width="220">
+      <strong>🧠 Role</strong>
+      <div>AI Engineer</div>
+    </td>
+    <td align="center" width="220">
+      <strong>🚀 Projects</strong>
+      <div>8+ AI & Full Stack products</div>
+    </td>
+    <td align="center" width="220">
+      <strong>⚡ Stack</strong>
+      <div>Python • React • Flutter</div>
+    </td>
+    <td align="center" width="220">
+      <strong>🎯 Focus</strong>
+      <div>LLMs • AI Agents • RAG</div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -40,16 +57,16 @@ Building intelligent products with AI, automation and modern web technologies.
 
 ## Featured Work
 
-- 🎨 SixArt.ai — AI Creative Platform: Create images, videos, music and audio with generative models.
+- 🎨 SixArt.ai — AI Creative Platform: Create AI Images, Videos, Music and Audio from a single platform.
   - Tech: React • FastAPI • Python • Generative AI
 
-- 🤖 AI Agent Builder — Custom AI agents with workflows and knowledge bases.
+- 🤖 AI Agent Builder — Create intelligent AI agents with custom workflows and knowledge bases.
   - Tech: React • Node.js • LLMs • RAG
 
-- 👮 Maharashtra Police Dashboard — Enterprise dashboard for managing workflows and users.
+- 👮 Maharashtra Police Dashboard — Enterprise dashboard for managing police workflows, users and operations.
   - Tech: React • Node.js • MongoDB
 
-- 👕 AI Virtual Try-On — Computer-vision powered virtual try-on for fashion.
+- 👕 AI Virtual Try-On — AI-powered fashion try-on application using computer vision.
   - Tech: Python • OpenCV • Flask
 
 ---
@@ -58,7 +75,7 @@ Building intelligent products with AI, automation and modern web technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,express,flutter,fastapi,mongodb,mysql,docker,git,github,linux,vscode,figma,opencv&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,express,flutter,fastapi,mongodb,mysql,docker,git,github,linux,vscode,figma,opencv&perline=8" alt="tech icons" />
 
 </div>
 
