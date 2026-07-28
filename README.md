@@ -194,17 +194,6 @@ Flask
 
 </div>
 
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SI23DD/SI23DD/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
 # 🌐 Connect
 
 <div>
@@ -213,13 +202,9 @@ Flask
 <img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/siddhi-jadhav-477694279">
 <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL_HERE">
 <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
