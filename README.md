@@ -1,14 +1,19 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&color=BA55D3&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+the+Future+with+AI" />
-</p> 
 
-<h1 align="center">Hi 👋, I'm Siddhi Jadhav</h1>
-<h3 align="center">Building AI-powered applications that solve real-world problems.</h3>
+# 🚀 Premium GitHub README for SI23DD
 
-
+> **Note:** Replace any placeholder links (portfolio, LinkedIn, etc.) if needed.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Si23DD&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+the+Future+with+AI"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Siddhi Jadhav</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • Generative AI Enthusiast</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SI23DD&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SI23DD?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/SI23DD?style=for-the-badge&color=8A2BE2"/>
 </p>
 
 ---
@@ -17,116 +22,28 @@
 
 - 💼 AI Engineer at **X38 AI Labs Pvt. Ltd.**
 - 🎓 B.E. in Artificial Intelligence
-- 🤖 Passionate about **Generative AI**, **LLMs**, **Agentic AI**, and **Full Stack Development**
-- 🌱 Currently exploring **MCP**, **RAG**, **Multi-Agent Systems**, and **Cloud Deployment**
-- 💡 Love turning ideas into AI products
-- 🚀 Always learning and building something new
+- 🤖 Building AI-powered products
+- 🌱 Learning Agentic AI, MCP, RAG & Cloud
+- 🚀 Creator of SixArt.ai
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎨 SixArt.ai
-An AI-powered creative platform that lets users generate:
-
-- 🖼️ AI Images
-- 🎥 AI Videos
-- 🎵 AI Music
-- 🎙️ AI Audio
-
----
-
-### 🤖 AI Agent Builder
-
-Create intelligent AI Agents with:
-
-- Drag & Drop Builder
-- Knowledge Base
-- Workflow Automation
-- Custom Tools
-- Multi-Agent Support
-
----
-
-### 👮 Maharashtra Police Dashboard
-
-Enterprise dashboard featuring:
-
-- Role Based Access
-- Complaint Management
-- Case Tracking
-- Officer Management
-- Reports & Analytics
-
----
-
-### 👕 Virtual Try-On
-
-AI-powered clothing try-on application using:
-
-- Python
-- Flask
-- OpenCV
-- Machine Learning
-
----
-
-### 🐾 PetFam
-
-Pet Adoption Platform
-
-- Flask
-- SQLAlchemy
-- SQLite
-- HTML
-- CSS
-- JavaScript
+| Project | Description |
+|---------|-------------|
+| 🎨 SixArt.ai | AI Images, Videos, Music & Audio |
+| 🤖 AI Agent Builder | Drag & Drop AI Agents |
+| 👮 Maharashtra Police Dashboard | Enterprise Management Dashboard |
+| 👕 Virtual Try-On | AI Fashion Try-On |
+| 🐾 PetFam | Pet Adoption Platform |
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,flutter" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-### AI / ML
-
-- OpenAI API
-- Gemini API
-- Ollama
-- Hugging Face
-- LangChain
-- RAG
-- MCP
-- LLMs
-- OpenCV
-- Transformers
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux,aws" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,flutter,fastapi,mongodb,mysql,docker,git,github,linux,aws,figma,vscode"/>
 </p>
 
 ---
@@ -134,9 +51,8 @@ Pet Adoption Platform
 ## 📊 GitHub Stats
 
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SI23DD&show_icons=true&theme=tokyonight)
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SI23DD&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SI23DD&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -152,12 +68,12 @@ Pet Adoption Platform
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SI23DD&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SI23DD&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SI23DD&theme=tokyo-night&hide_border=true"/>
@@ -165,41 +81,33 @@ Pet Adoption Platform
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="left">
+> Requires the snake GitHub Action.
 
-<a href="www.linkedin.com/in/siddhi-jadhav-477694279">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:ai.siddhi.jadhav@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/SI23DD/SI23DD/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 💭 Quote
+## 💬 Random Dev Quote
 
-> *"Building technology that makes life simpler, smarter, and more creative."*
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-<!--
-**SI23DD/SI23DD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.linkedin.com/in/siddhi-jadhav-477694279"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:ai.siddhi.jadhav@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
