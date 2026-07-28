@@ -207,7 +207,7 @@ Flask
 ---
 # 🌐 Connect
 
-<div align="center">
+<div>
 
 <a href="https://github.com/SI23DD">
 <img src="https://skillicons.dev/icons?i=github" height="42"/>
