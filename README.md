@@ -91,7 +91,6 @@ I build production-ready AI applications that combine large language models, ret
 
 - End-to-end product delivery: prototype → MVP → production
 - Experience with RAG pipelines, LLM prompt engineering, and agent design
-- Production deployments using Docker, CI/CD, and monitoring
 
 ---
 
