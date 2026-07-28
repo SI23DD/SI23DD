@@ -231,18 +231,6 @@ Flask
 
 <div align="center">
 
-### Thanks for stopping by 👋
-
-I'm always interested in collaborating on **AI**, **Full Stack**, and **Generative AI** projects.
-
-Feel free to connect or explore my repositories.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer"/>
+<img src="footer.png" width="100%" alt="Footer"/>
 
 </div>
