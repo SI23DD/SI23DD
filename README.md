@@ -199,24 +199,6 @@ Flask
 
 # 🌐 Connect
 
-<div>
-
-<a href="https://github.com/SI23DD">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
-
-<a href="https://www.linkedin.com/in/siddhi-jadhav-477694279">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-</a>
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="footer.png" width="100%" alt="Footer"/>
