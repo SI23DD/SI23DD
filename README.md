@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SI23DD&label=Profile%20Views&style=for-the-badge&color=000000" />
+</p>
 <div align="center">
 
 <img src="banner.png" width="100%" alt="Siddhi Jadhav Banner"/>
