@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
+  <img src="banner.png" width="100%" alt="Siddhi Jadhav Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+Intelligent+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Building+AI+Products;Always+Learning+Always+Building" />
 </p>
 
 <h1 align="center">Siddhi Jadhav</h1>
@@ -14,11 +14,13 @@ AI Engineer • Full Stack Developer • Generative AI
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SI23DD&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://github.com/SI23DD">
+<img src="https://komarev.com/ghpvc/?username=SI23DD&style=for-the-badge"/>
+</a>
 
+<a href="https://github.com/SI23DD?tab=followers">
 <img src="https://img.shields.io/github/followers/SI23DD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/SI23DD?style=for-the-badge"/>
+</a>
 
 </p>
 
@@ -26,154 +28,98 @@ AI Engineer • Full Stack Developer • Generative AI
 
 # 👋 About Me
 
-```diff
-+ AI Engineer passionate about building intelligent products.
+I'm an **AI Engineer** passionate about building intelligent applications that solve real-world problems.
 
-+ Full Stack Developer.
+Currently working on
 
-+ Building modern AI powered applications.
+- 🤖 Generative AI
+- 🧠 AI Agents
+- 🌐 Full Stack Applications
+- 📱 Flutter Apps
+- ⚡ AI Automation
 
-+ Exploring Agentic AI, MCP, LangChain and RAG.
-
-+ Love creating products that solve real problems.
-
-+ Always Learning.
-```
+I enjoy transforming ideas into polished products with a strong focus on design, performance, and user experience.
 
 ---
 
 # 💼 Experience
 
-### AI Engineer
+## AI Engineer
 
 **X38 AI Labs Pvt. Ltd.**
 
 Working on
 
-- Generative AI
+- Enterprise AI Platforms
 - AI Agent Builder
+- Dashboard Applications
 - Flutter Applications
-- Enterprise Dashboards
 - Full Stack Development
-- AI Automation
+- LLM Integrations
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎨 SixArt.ai | AI Image • Video • Music • Audio Generation |
-| 🤖 AI Agent Builder | Drag & Drop AI Agents |
-| 👮 Maharashtra Police Dashboard | Enterprise Dashboard |
-| 👕 Virtual Try-On | AI Clothing Try-On |
-| 🐾 PetFam | Pet Adoption Platform |
+### 🎨 SixArt.ai
+
+AI-powered platform for
+
+- AI Images
+- AI Videos
+- AI Music
+- AI Audio
 
 ---
 
-# ⚡ Tech Stack
+### 🤖 AI Agent Builder
 
-## Languages
+Create AI Agents using
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,flutter"/>
-
-</p>
+- Drag & Drop Builder
+- Knowledge Base
+- Workflow Automation
+- Custom AI Tools
 
 ---
 
-## Backend
+### 👮 Maharashtra Police Dashboard
 
-<p>
+Enterprise management platform featuring
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
-
-</p>
+- Complaint Management
+- Officer Management
+- Analytics
+- Reports
 
 ---
 
-## AI Stack
+### 👕 Virtual Try-On
 
-- OpenAI
-- Gemini
-- LangChain
-- Ollama
-- Hugging Face
-- Transformers
-- MCP
-- RAG
+AI-powered clothing try-on using
+
+- Python
+- Flask
 - OpenCV
+- Machine Learning
 
 ---
 
-## Tools
+# 💻 Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux,postman,aws"/>
+<img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,express,flutter,fastapi,mongodb,mysql,docker,git,github,vscode,figma,linux"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SI23DD&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SI23DD&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SI23DD&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SI23DD&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SI23DD&theme=onestar&no-frame=true&no-bg=true&margin-w=15"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SI23DD&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
 </p>
 
@@ -181,84 +127,11 @@ Working on
 
 # 🐍 Contribution Snake
 
-> *(This will appear after we add `snake.yml` in Part 3.)*
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/SI23DD/SI23DD/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</p>
-
----
-
-# 📊 GitHub Metrics
-
-> *(This will appear after we add `metrics.yml`.)*
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SI23DD/SI23DD/main/github-metrics.svg"/>
-
-</p>
-
----
-
-# ⚡ Current Focus
-
-```text
-🧠 Generative AI
-⚙️ Agentic AI
-🤖 AI Agents
-🌐 Full Stack Development
-📱 Flutter Development
-☁️ Cloud & Deployment
-```
-
----
-
-# 🚀 Currently Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 SixArt.ai
-
-AI Image Generation
-
-AI Video Generation
-
-AI Music
-
-AI Audio
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Agent Builder
-
-Drag & Drop Builder
-
-Knowledge Base
-
-Workflow Automation
-
-Custom AI Tools
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -290,12 +163,12 @@ Custom AI Tools
 
 <p align="center">
 
-### ⚪ Building the Future with AI ⚪
+## Building Intelligent Experiences with AI
 
 </p>
 
 <p align="center">
 
-⭐ If you like my work, consider following me on GitHub ⭐
+Thanks for visiting my profile 🤍
 
 </p>
