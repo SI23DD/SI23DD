@@ -1,7 +1,3 @@
-
-# 🚀 Premium GitHub README for SI23DD
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+the+Future+with+AI"/>
 </p>
