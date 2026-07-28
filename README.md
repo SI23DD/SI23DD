@@ -1,174 +1,226 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Siddhi Jadhav Banner"/>
+<div align="center">
+
+<img src="banner.png" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Building+Intelligent+Experiences;Always+Learning+Always+Building" />
+
+<br><br>
+
+# Siddhi Jadhav
+
+### AI Engineer • Full Stack Developer • Generative AI
+
+Building intelligent products powered by AI, automation, and modern web technologies.
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=SI23DD&style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/github/followers/SI23DD?style=for-the-badge&color=000000" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddhi+Jadhav;AI+Engineer;Full+Stack+Developer;Building+AI+Products;Always+Learning+Always+Building" />
-</p>
-
-<h1 align="center">Siddhi Jadhav</h1>
-
-<h3 align="center">
-AI Engineer • Full Stack Developer • Generative AI
-</h3>
-
-<p align="center">
-
-<a href="https://github.com/SI23DD">
-<img src="https://komarev.com/ghpvc/?username=SI23DD&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/SI23DD?tab=followers">
-<img src="https://img.shields.io/github/followers/SI23DD?style=for-the-badge"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 # 👋 About Me
 
-I'm an **AI Engineer** passionate about building intelligent applications that solve real-world problems.
+I'm passionate about creating AI-powered applications that solve real-world problems.
 
-Currently working on
+Currently working as an **AI Engineer** at **X38 AI Labs**, where I build AI agents, enterprise dashboards, Flutter applications, and full stack products.
 
-- 🤖 Generative AI
-- 🧠 AI Agents
-- 🌐 Full Stack Applications
-- 📱 Flutter Apps
-- ⚡ AI Automation
+### What I enjoy building
 
-I enjoy transforming ideas into polished products with a strong focus on design, performance, and user experience.
+- 🤖 Generative AI Applications
+- 🧠 AI Agent Platforms
+- 🌐 Full Stack Web Apps
+- 📱 Flutter Applications
+- ⚡ Automation Systems
+- 🎨 Beautiful User Interfaces
 
 ---
 
 # 💼 Experience
 
-## AI Engineer
+### AI Engineer
 
 **X38 AI Labs Pvt. Ltd.**
 
-Working on
-
-- Enterprise AI Platforms
-- AI Agent Builder
-- Dashboard Applications
-- Flutter Applications
-- Full Stack Development
-- LLM Integrations
+Building enterprise AI platforms, AI agents, dashboards, automation systems, and production-ready applications.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎨 SixArt.ai
+<table>
+<tr>
 
-AI-powered platform for
+<td width="50%">
 
-- AI Images
-- AI Videos
-- AI Music
-- AI Audio
+## 🎨 SixArt.ai
 
----
+Create AI Images, Videos, Music and Audio from one platform.
 
-### 🤖 AI Agent Builder
+**Tech**
 
-Create AI Agents using
+React • FastAPI • Python • AI APIs
 
-- Drag & Drop Builder
-- Knowledge Base
-- Workflow Automation
-- Custom AI Tools
+</td>
 
----
+<td width="50%">
 
-### 👮 Maharashtra Police Dashboard
+## 🤖 AI Agent Builder
 
-Enterprise management platform featuring
+Build AI Agents with knowledge bases and workflows.
 
-- Complaint Management
-- Officer Management
-- Analytics
-- Reports
+**Tech**
 
----
+React • Node.js • AI • RAG
 
-### 👕 Virtual Try-On
+</td>
 
-AI-powered clothing try-on using
+</tr>
 
-- Python
-- Flask
-- OpenCV
-- Machine Learning
+<tr>
 
----
+<td>
 
-# 💻 Tech Stack
+## 👮 Police Dashboard
 
-<p align="center">
+Enterprise dashboard for department management.
 
-<img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,express,flutter,fastapi,mongodb,mysql,docker,git,github,vscode,figma,linux"/>
+**Tech**
 
+React • Node • MongoDB
+
+</td>
+
+<td>
+
+## 👕 Virtual Try-On
+
+AI clothing try-on using computer vision.
+
+**Tech**
+
+Python • OpenCV • Flask
+
+</td>
+
+</tr>
+
+</table>
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart" />
 </p>
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
+</p>
+
+</div>
+
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SI23DD&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SI23DD&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/SI23DD/SI23DD/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SI23DD/SI23DD/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:ai.siddhi.jadhav@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/siddhi-jadhav-477694279">
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/SI23DD">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-## Building Intelligent Experiences with AI
+## 💡 Current Focus
 
-</p>
+🧠 Building AI-powered products
 
-<p align="center">
+⚡ Exploring LLMs, AI Agents & RAG
 
-Thanks for visiting my profile 🤍
+🚀 Shipping production-ready applications
 
-</p>
+🎯 Continuously learning and improving
+
+</div>
+
+---
+
+<div align="center">
+
+# Thanks for Visiting 🤍
+
+### Building Intelligent Experiences with AI
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer"/>
+
+</div>
